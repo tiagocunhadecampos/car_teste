@@ -4,10 +4,6 @@
 
 Este é um projeto Flutter para reservar de Carros.
 
-## Início Rápido
-
-Este projeto serve como ponto de partida para uma aplicação Flutter focada em autenticação de usuário.
-
 ### Pré-requisitos
 
 Antes de começar, certifique-se de ter o Flutter instalado. Para instruções de instalação, consulte o [Guia de Instalação do Flutter](https://flutter.dev/docs/get-started/install).
