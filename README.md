@@ -2,7 +2,7 @@
 
 # cars_teste
 
-Este é um projeto Flutter para uma aplicação de login.
+Este é um projeto Flutter para reservar de Carros.
 
 ## Início Rápido
 
