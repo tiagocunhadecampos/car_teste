@@ -21,7 +21,7 @@ git clone https://github.com/tiagocunhadecampos/car_teste
 Navegue até o diretório do projeto:
 
 ```bash
-cd login_app
+cd car_teste
 ```
 
 ### Instalar Dependências
