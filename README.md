@@ -1,9 +1,5 @@
 <!-- @format -->
 
-# cars_teste
-
-Este é um projeto Flutter para reservar de Carros.
-
 # Sobre o Projeto
 O projeto "Reservas de Veículos" é uma aplicação desenvolvida em Flutter que permite aos usuários realizar reservas de veículos. Os dados essenciais para a reserva, como nome, e-mail e telefone, são coletados e armazenados localmente utilizando um banco de dados SQLite integrado.
 
