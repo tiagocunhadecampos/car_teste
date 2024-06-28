@@ -70,4 +70,5 @@ Este projeto utiliza os seguintes pacotes principais:
 - **equatable**: Um pacote que facilita a implementação de classes Dart que podem ser comparadas de maneira simples e eficiente.
 - **shared_preferences**: Um plugin Flutter que fornece uma forma simples e rápida de armazenar dados simples e chave-valor de forma persistente.
 - **background_fetch**: Um pacote para Flutter que permite executar tarefas em segundo plano em intervalos regulares, útil para atualizações automáticas e sincronização de dados.
+- **Bloc**: Utilizado para gerenciamento de estado da aplicação, garantindo uma arquitetura robusta e separação de preocupações.
 
