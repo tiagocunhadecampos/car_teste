@@ -4,10 +4,24 @@
 
 Este é um projeto Flutter para reservar de Carros.
 
+# Sobre o Projeto
+O projeto "Reservas de Veículos" é uma aplicação desenvolvida em Flutter que permite aos usuários realizar reservas de veículos. Os dados essenciais para a reserva, como nome, e-mail e telefone, são coletados e armazenados localmente utilizando um banco de dados SQLite integrado.
+
+###  Funcionalidades Principais:
+- Reserva de Veículos: Os usuários podem navegar pela lista de veículos disponíveis e realizar uma reserva selecionando o veículo desejado.
+
+- Armazenamento Local: As informações da reserva são armazenadas de forma segura no dispositivo do usuário, garantindo que os dados estejam acessíveis offline e protegidos.
+
+ - Envio de Leads: Periodicamente, a cada 15 minutos, as informações de reserva são enviadas para um servidor remoto no endereço https://www.wswork.com.br/cars/leads. Isso permite que a empresa receba e processe as solicitações de reserva em tempo real.
+
+ - Gerenciamento de Reservas: Além de realizar novas reservas, os usuários têm a opção de visualizar e excluir reservas previamente feitas, proporcionando uma experiência de usuário completa e interativa.
+
 ### Pré-requisitos
 
 Antes de começar, certifique-se de ter o Flutter instalado. Para instruções de instalação, consulte o [Guia de Instalação do Flutter](https://flutter.dev/docs/get-started/install).
 
+- **Flutter 3.13.0**: Versão do Flutter utilizado neste projeto.
+  
 ### Clonar o Repositório
 
 Clone este repositório em sua máquina local usando:
@@ -60,6 +74,4 @@ Este projeto utiliza os seguintes pacotes principais:
 - **equatable**: Um pacote que facilita a implementação de classes Dart que podem ser comparadas de maneira simples e eficiente.
 - **shared_preferences**: Um plugin Flutter que fornece uma forma simples e rápida de armazenar dados simples e chave-valor de forma persistente.
 - **background_fetch**: Um pacote para Flutter que permite executar tarefas em segundo plano em intervalos regulares, útil para atualizações automáticas e sincronização de dados.
-
-
 
