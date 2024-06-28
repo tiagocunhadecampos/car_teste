@@ -50,14 +50,6 @@ Certifique-se de ter o Xcode instalado e um simulador configurado. Em seguida, e
 flutter run
 ```
 
-#### Rodar Testes
-
-Para rodar os testes unitários do projeto, execute o seguinte comando:
-
-```bash
-flutter test
-```
-
 ### Pacotes Utilizados
 
 Este projeto utiliza os seguintes pacotes principais:
